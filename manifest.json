@@ -1,0 +1,12 @@
+
+{
+  "name": "MIFTA EXCHANGE",
+  "short_name": "MIFTA",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#f0b90b",
+  "description": "MIFTA EXCHANGE Crypto Demo App",
+  "icons": []
+}
