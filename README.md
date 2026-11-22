@@ -1,2 +1,2 @@
-# miff-exchange
+# mifta-exchange
 Global Crypto Exchange – Worldwide
